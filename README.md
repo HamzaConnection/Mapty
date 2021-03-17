@@ -1,3 +1,3 @@
 # Mapty
 
-##https://hamzaconnection.github.io/Mapty/
+## https://hamzaconnection.github.io/Mapty/
